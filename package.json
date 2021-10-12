@@ -1,0 +1,25 @@
+{
+  "name": "lusend-v2",
+  "description": "LU Send Files",
+  "version": "1.0.0",
+  "main": "vite.config.js",
+  "devDependencies": {
+    "vite": "^2.6.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lusend/lusend-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lusend/lusend-v2/issues"
+  },
+  "homepage": "https://github.com/lusend/lusend-v2#readme",
+  "dependencies": {}
+}
